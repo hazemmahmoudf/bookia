@@ -15,6 +15,14 @@
 
 ## Screenshots
 
-| splash screen | welcome screen | login | register|
-|------------|--------------|---------|
-| ![splash](assets/images/image_splash.png) | ![welcome](assets/images/image_welcome.png) | ![login](assets/images/image_login.png) | ![register](assets/images/image_register.png)|
+### Splash Screen
+![Splash Screen](assets/images/image_splash.png)
+
+### Welcome Screen
+![Welcome Screen](assets/images/image_welcome.png)
+
+### Login
+![Login Screen](assets/images/image_login.png)
+
+### Register
+![Register Screen](assets/images/image_register.png)
