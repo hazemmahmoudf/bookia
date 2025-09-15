@@ -9,7 +9,7 @@
 - **Easy Browsing**: Search for your favorite books or explore different categories effortlessly.
 - **Instant Purchase & Read**: Get your digital copy immediately and start reading without delay. 
 - **Personalized Lists**: Save your favorite books and create your own personal library.
-- **Smooth User Experience**: Attractive and simple interface for a pleasant reading experience.
+- **Smooth User Experience**: Attractive and simple interface for a pleasant reading experience.  
 
 ---
 
