@@ -16,13 +16,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/image_splash.png" width="10%" />
-  <img src="assets/images/image_welcome.png" width="10%" />
-</p>
-
-<p align="center">
-  <img src="assets/images/image_login.png" width="10%" />
-  <img src="assets/images/image_register.png" width="10%" />
+  <img src="assets/images/image_splash.png" width="15%" />
+  <img src="assets/images/image_welcome.png" width="15%" />
+   <img src="assets/images/image_login.png" width="15%" />
+  <img src="assets/images/image_register.png" width="15%" />
 </p>
 
 ---
