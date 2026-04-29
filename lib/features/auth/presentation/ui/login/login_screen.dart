@@ -29,7 +29,7 @@ class LoginScreen extends StatelessWidget {
                 children: [
                   SizedBox(height: 29.h),
                   Text(
-                    "Welcome back! Glad \nto see you, Again!",
+                    "Welcome back! Glad\nto see you, Again!",
                     style: Theme.of(context).textTheme.displayLarge,
                   ),
                   SizedBox(height: 32.h),
